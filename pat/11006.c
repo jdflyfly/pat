@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1006
+ 
+题意：分析每个人到达和离开实验室的时间，找到最早来和最晚走的人。
+ 
+分析：简单的一次遍历寻找最大最小值，我直接利用字符串比较时间的大小，也可以读入int 转化成分钟处理。
+*/
+
 #include<stdio.h>
 #include<string.h>
 
