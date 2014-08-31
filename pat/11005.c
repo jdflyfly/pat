@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1005
+ 
+题意：计算一个大数每位数字相加之和，结果输出每位数字对应的英文。
+ 
+分析：结果输出利用hash的思想。
+*/
+
 #include<stdio.h>
 
 int arr[20];
