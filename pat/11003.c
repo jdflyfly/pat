@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1003
+ 
+题意：计算两个点之间的加权最短路径，若有多条最短路径，选取沿途节点权重和最大的。
+ 
+分析：利用Dijkstra算法求出最短路径，然后利用dfs遍历选取路径最短并且节点权重最大。
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
