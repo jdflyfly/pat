@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1008
+ 
+题意：给出楼层序列计算电梯运行时间。
+ 
+分析：简单模拟题。
+*/
+
 #include<stdio.h>
 
 int main() {
