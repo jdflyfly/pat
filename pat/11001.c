@@ -1,3 +1,13 @@
+/**
+
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1001
+ 
+概述：计算a+b的值，并且将和按照每三位一个逗号分隔的方式输出。
+ 
+注意点：负数和零的处理。 
+  
+*/
+
 #include<stdio.h>
 
 int main() {
