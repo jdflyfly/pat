@@ -1,3 +1,12 @@
+
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1007
+ 
+题意：经典的最大连续子串问题。
+ 
+分析：采用最优的O(N) 算法。
+*/
+
 #include<stdio.h>
 
 int seq[10005];
