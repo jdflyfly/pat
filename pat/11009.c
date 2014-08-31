@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1009
+ 
+题意：计算多项式的乘积。
+ 
+分析：基于编程方便，还是采用数组的方式来实现。
+*/
+
 #include<stdio.h>
 
 typedef struct Poly {
