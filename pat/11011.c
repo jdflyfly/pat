@@ -1,3 +1,11 @@
+/**
+链接：http://pat.zju.edu.cn/contests/pat-a-practise/1011
+ 
+题意：给定数据，找到每行的最大值根据公式计算结果。
+ 
+分析：简单模拟题目。
+*/
+
 #include<stdio.h>
 
 double bigger(double a, double b) {
